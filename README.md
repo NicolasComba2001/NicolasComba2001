@@ -16,7 +16,7 @@ Welcome, I'm nicolas e. comba, FRONT-END developer, interested in creating a gre
 - 👋 Hi, I’m @NicolasComba2001 <br>
 - 👀 I’m interested in front-end development, sales agents, Customer Support, Assistant Professor <br>
 - 🌱 I’m currently learning English, Portugues, React and other web-related technologies <br>
-- 💞️ I’m looking to collaborate on my projects <br>
+ <br>
 - :telephone_receiver: How to reach me :email:nicolaseliascomba_2001@hotmail.com:email:, I will gladly accept a :coffee:coffee:coffee: and a pleasant afternoon with you. <br>
 
 ### :triangular_flag_on_post: OTHER WAYS TO GET TO KNOW ME :triangular_flag_on_post:
