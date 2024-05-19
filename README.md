@@ -21,8 +21,6 @@
 <strong>:fire: REACT JS </strong>
 <strong>:fire: NEXT.JS (beginner) </strong>
 
-<p>If you want to take a look at my <a href="https://nicolascomba2001.github.io/Portfolio/" target="_BLANK">RESUME</a></p> <br>
-
 <h2>:collision::collision::collision::collision::collision::collision::collision::collision::collision::collision::collision::collision::collision::collision::collision::collision:</h2>
  <p>💞️Not everything is business or work, I would love if you would agree to talk with me, exchange information, visualize my projects, initiate changes or even be able to grow and learn together.💞️ </p>
  
