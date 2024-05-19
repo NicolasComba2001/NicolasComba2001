@@ -34,11 +34,7 @@
 
  ### <h4>:triangular_flag_on_post: OTHER WAYS TO GET TO KNOW ME :triangular_flag_on_post:</h4>
 
-<p>:dart: LINKEDIN -- <a href="https://www.linkedin.com/in/nicolas-comba-334324196/" target="_BLANK" rel="nofollow">beautiful profile on linkedin</a>
-
-:dart: COMPUTRABAJO.COM -- <a href="https://candidato.computrabajo.com.ar/Candidate/Home" target="_BLANK" rel="nofollow">beautiful profile on CompuTrabajo</a>
-
-:dart: PORTAFOLIO -- <a href="https://nicolascomba2001.github.io/Portfolio/" target="_BLANK" rel="nofollow">beautiful profile on my Portafolio</a>
+<p>:dart: LINKEDIN -- <a href="https://www.linkedin.com/in/nicolas-comba-94147730a/" target="_BLANK" rel="nofollow">beautiful profile on linkedin</a>
 
 :dart: INSTAGRAM -- <a href="https://www.instagram.com/nicolascomba/" target="_BLANK" rel="nofollow">beautiful profile on Instagram</a></p>
 
