@@ -30,7 +30,6 @@
 <p>- 👋 Hi, I’m @NicolasComba2001</p> <br>
 <p>- 👀 I’m interested in front-end development, sales agents, Customer Support, Assistant Professor</p> <br>
 <p>- 🌱 I’m currently learning English, Portugues, React and other web-related technologies</p> <br>
-<p>:telephone_receiver: How to reach me :email:nicolaseliascomba_2001@hotmail.com:email:, I will gladly accept a :coffee:coffee:coffee: and a pleasant afternoon with you.</p> <br>
 
  ### <h4>:triangular_flag_on_post: OTHER WAYS TO GET TO KNOW ME :triangular_flag_on_post:</h4>
 
