@@ -1,5 +1,5 @@
 ### WELCOME TO MY PROFILE! :star:
-<h1> FRONT-END DEVELOPER </h1>
+<h1> SOFTWARE DEVELOPER </h1>
 
 </p> Welcome, I'm Nicolas E. Comba, Software developer.</p>
 
