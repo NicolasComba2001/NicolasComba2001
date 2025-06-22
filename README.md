@@ -8,6 +8,7 @@
 <p> :star: React JS & Next JS</p>
 <p> :star: Redux Toolkit</p>
 <p> :star: Node JS</p>
+<p> :star: Express JS</p>
 <p> :star: .NET</p>
 <p> :star: GIT / GIT-HUB</p>
 <p> :star: SQL & MySQL</p>
